@@ -149,7 +149,7 @@ https://orkestron.ai
 
 ## White Paper
 
-See `/whitepaper` directory
+See `Orkestron_Whitepaper_v2.pdf`
 
 ---
 
